@@ -1,3 +1,16 @@
 body {
     height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.header-logo {
+    font-size: 24px;
+}
+
+.hero-section-main {
+    font-size: 48px;
+    font-weight: bolder;
 }
