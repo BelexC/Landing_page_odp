@@ -9,6 +9,7 @@ body {
 #header {
     height: 500px;
     background-color: #1f2937;
+    color: #F9FAF8;
 }
 
 .header-logo {
@@ -18,4 +19,38 @@ body {
 .hero-section-main {
     font-size: 48px;
     font-weight: bolder;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 60px 50px 20px;
+}
+
+.navlinks {
+    list-style: none;
+    display: flex;
+    gap: 8px;
+    font-size: 18px;
+}
+
+.navcontent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    padding: 0px 40px 0px 40px;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    max-width: 400px;
+    min-width: 300px;
+    max-height: 350px;
+}
+
+.navbar h1 {
+    font-size: 48px;
 }
