@@ -34,7 +34,7 @@ body {
     font-size: 18px;
 }
 
-.navcontent {
+.navbar{
     display: flex;
     justify-content: center;
     align-items: center;
