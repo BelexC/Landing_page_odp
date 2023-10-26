@@ -6,6 +6,11 @@ body {
     font-size: 18px;
 }
 
+#header {
+    height: 500px;
+    background-color: #1f2937;
+}
+
 .header-logo {
     font-size: 24px;
 }
@@ -13,6 +18,4 @@ body {
 .hero-section-main {
     font-size: 48px;
     font-weight: bolder;
-    background-color: #1f2937;
-    height: 500px;
 }
